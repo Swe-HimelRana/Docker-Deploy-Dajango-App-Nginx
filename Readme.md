@@ -1,5 +1,5 @@
 #Command for starting applciation
-
+Create a </code> app </code> folder 
 Copy Paste your django app into ./app folder
 
 <code>
