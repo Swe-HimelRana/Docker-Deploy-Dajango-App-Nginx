@@ -1,10 +1,10 @@
 #Command for starting applciation
 
-Create a app folder for your django project files
+Copy Paste your django app into ./app folder
 
 <code>
-docker-compose down
-docker-compose up --build -d
+docker-compose down <br>
+docker-compose up --build -d <br>
 </code>
 
 #Enjoy
